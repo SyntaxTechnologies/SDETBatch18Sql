@@ -1,0 +1,3 @@
+what are Databases?
+    Database are special software which allow us to store
+    and manage large amounts of data.
